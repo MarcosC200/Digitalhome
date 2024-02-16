@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Digitalhome Soluciones Tecnologicos</title>
+	<atom:link href="https://marcosc200.github.io/Digitalhome/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://marcosc200.github.io/Digitalhome</link>
+	<description>Soporte Tecnico</description>
+	<lastBuildDate>Fri, 16 Feb 2024 12:07:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>PREMIUM SECURITY</title>
+		<link>https://marcosc200.github.io/Digitalhome/product/premium-security/</link>
+					<comments>https://marcosc200.github.io/Digitalhome/product/premium-security/#respond</comments>
+		
+		<dc:creator><![CDATA[Marcos]]></dc:creator>
+		<pubDate>Fri, 16 Feb 2024 12:06:54 +0000</pubDate>
+				<guid isPermaLink="false">https://marcosc200.github.io/Digitalhome/?post_type=product#038;p=1825</guid>
+
+					<description><![CDATA[PREMIUM SECURITY Ahora
+
+Licencia 1 Año 1Pc
+
+S/. 41.00]]></description>
+										<content:encoded><![CDATA[<p>La seguridad premium ofrece protección de primer nivel mediante cifrado avanzado, autenticación multifactor y detección proactiva de intrusiones. Incluye vigilancia 24 horas al día, 7 días a la semana, sistemas de control de acceso y equipos de respuesta rápida para seguridad física. En los servicios financieros, la seguridad premium implica una sólida detección de fraude, transacciones seguras y un cumplimiento estricto de los estándares de la industria.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://marcosc200.github.io/Digitalhome/product/premium-security/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
