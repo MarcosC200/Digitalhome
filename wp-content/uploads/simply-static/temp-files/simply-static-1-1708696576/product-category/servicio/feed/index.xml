@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Servicio &#8211; Digitalhome Soluciones Tecnologicos</title>
+	<atom:link href="https://marcosc200.github.io/Digitalhome/product-category/servicio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://marcosc200.github.io/Digitalhome</link>
+	<description>Soporte Tecnico</description>
+	<lastBuildDate>Wed, 21 Feb 2024 00:18:04 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>¿NECESITAS UN MANTENIMIENTO DE SISTEMA OPERATIVO?</title>
+		<link>https://marcosc200.github.io/Digitalhome/product/necesitas-un-mantenimiento-de-sistema-operativonecesitas-un-mantenimiento-de-sistema-operativo/</link>
+					<comments>https://marcosc200.github.io/Digitalhome/product/necesitas-un-mantenimiento-de-sistema-operativonecesitas-un-mantenimiento-de-sistema-operativo/#respond</comments>
+		
+		<dc:creator><![CDATA[Marcos]]></dc:creator>
+		<pubDate>Wed, 21 Feb 2024 00:02:18 +0000</pubDate>
+				<guid isPermaLink="false">https://marcosc200.github.io/Digitalhome/?post_type=product#038;p=2007</guid>
+
+					<description><![CDATA[¿NECESITAS UN MANTENIMIENTO DE SISTEMA OPERATIVO? Ahora
+
+LICENCIAS:
+
+S/. 0.00]]></description>
+										<content:encoded><![CDATA[<p>El mantenimiento del sistema operativo es crucial para asegurar un rendimiento óptimo de cualquier dispositivo. Implica la instalación de actualizaciones de seguridad, la eliminación de archivos temporales y la optimización del sistema para mejorar la velocidad y la estabilidad. Además, el mantenimiento incluye la detección y corrección de errores, la gestión de recursos y la configuración de la seguridad.</p>
+<p><strong>CARACTERISTICAS:</strong></p>
+<ol>
+<li>Instalación regular de parches y actualizaciones para proteger el sistema contra vulnerabilidades y amenazas de seguridad.</li>
+<li>Eliminación de archivos temporales y cachés que pueden acumularse y ralentizar el sistema con el tiempo.</li>
+<li>Configuración de ajustes del sistema para mejorar la velocidad y la eficiencia del sistema operativo.</li>
+<li>Identificación y corrección de errores del sistema, así como diagnóstico de problemas de rendimiento.</li>
+<li>Asegurarse de que las configuraciones de seguridad del sistema operativo estén actualizadas y optimizadas para proteger contra amenazas potenciales.</li>
+</ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://marcosc200.github.io/Digitalhome/product/necesitas-un-mantenimiento-de-sistema-operativonecesitas-un-mantenimiento-de-sistema-operativo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>¿LE CAYO LIQUIDO A TU LAPTOP?</title>
+		<link>https://marcosc200.github.io/Digitalhome/product/servicio-tecnico-especializado-en-laptop/</link>
+					<comments>https://marcosc200.github.io/Digitalhome/product/servicio-tecnico-especializado-en-laptop/#respond</comments>
+		
+		<dc:creator><![CDATA[Marcos]]></dc:creator>
+		<pubDate>Wed, 21 Feb 2024 00:01:53 +0000</pubDate>
+				<guid isPermaLink="false">https://marcosc200.github.io/Digitalhome/?post_type=product#038;p=2005</guid>
+
+					<description><![CDATA[¿LE CAYO LIQUIDO A TU LAPTOP? Ahora
+
+LICENCIAS:
+
+S/. 0.00]]></description>
+										<content:encoded><![CDATA[<p>Como inteligencia artificial, no tengo una laptop física ni puedo experimentar daños por líquidos. Sin embargo, si un líquido cae en una laptop, puede causar daños graves en los componentes electrónicos y afectar su funcionamiento. Es crucial apagar la laptop inmediatamente, desconectarla de la corriente y retirar la batería si es posible. Luego, se debe secar con cuidado y, preferiblemente, llevarla a un servicio técnico especializado para su evaluación y reparación.</p>
+<p><strong>CARACTERISTICAS:</strong></p>
+<ul>
+<li>El líquido puede causar cortocircuitos en los componentes eléctricos de la laptop, lo que puede provocar que la computadora se apague repentinamente.</li>
+<li>El líquido puede causar corrosión en los componentes internos de la laptop, especialmente si contiene sustancias corrosivas como azúcares o sales.</li>
+<li>El líquido puede afectar el funcionamiento del teclado y el touchpad, causando que algunas teclas no funcionen correctamente o que el touchpad se vuelva irresponsivo.</li>
+<li>Si el líquido llega al disco duro o a otros componentes de almacenamiento, puede resultar en la pérdida permanente de datos almacenados en la laptop.</li>
+<li>Después de un incidente de líquido, la laptop puede experimentar problemas de rendimiento general, como errores aleatorios, problemas de arranque o pantallas azules de la muerte, incluso después de una limpieza y secado adecuados.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://marcosc200.github.io/Digitalhome/product/servicio-tecnico-especializado-en-laptop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
