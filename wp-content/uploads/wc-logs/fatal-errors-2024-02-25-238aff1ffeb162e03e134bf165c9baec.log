@@ -1,0 +1,4 @@
+2024-02-25T20:06:03+00:00 CRITICAL Out of memory (allocated 136314880 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version2\class-wc-rest-system-status-tools-v2-controller.php on line 212
+
+2024-02-25T20:25:41+00:00 CRITICAL Out of memory (allocated 142606336 bytes) (tried to allocate 10485760 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\woocommerce\src\Admin\API\Reports\Coupons\Controller.php on line 207
+
