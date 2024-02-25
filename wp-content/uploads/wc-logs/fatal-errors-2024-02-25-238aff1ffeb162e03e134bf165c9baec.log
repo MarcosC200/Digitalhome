@@ -2,3 +2,7 @@
 
 2024-02-25T20:25:41+00:00 CRITICAL Out of memory (allocated 142606336 bytes) (tried to allocate 10485760 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\woocommerce\src\Admin\API\Reports\Coupons\Controller.php on line 207
 
+2024-02-25T20:39:05+00:00 CRITICAL Out of memory (allocated 113246208 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\astra-sites\inc\importers\wxr-importer\class-wxr-importer.php on line 917
+
+2024-02-25T20:43:53+00:00 CRITICAL Out of memory (allocated 75497472 bytes) (tried to allocate 131072 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\really-simple-ssl\settings\config\config.php on line 728
+
