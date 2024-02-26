@@ -1,0 +1,10 @@
+2024-02-26T15:47:56+00:00 CRITICAL Out of memory (allocated 115343360 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\woocommerce\src\Blocks\BlockTypes\FeaturedCategory.php on line 1
+
+2024-02-26T15:49:28+00:00 CRITICAL Out of memory (allocated 123731968 bytes) (tried to allocate 131072 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\ultimate-addons-for-gutenberg\includes\blocks\info-box\frontend.css.php on line 339
+
+2024-02-26T15:51:26+00:00 CRITICAL Out of memory (allocated 140509184 bytes) (tried to allocate 20480 bytes) in C:\xampp\htdocs\Digitalhome\wp-includes\rest-api\class-wp-rest-server.php on line 940
+
+2024-02-26T15:57:04+00:00 CRITICAL Out of memory (allocated 119537664 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\astra-sites\inc\lib\gutenberg-templates\inc\importer\plugin.php on line 909
+
+2024-02-26T15:57:04+00:00 CRITICAL Out of memory (allocated 121634816 bytes) (tried to allocate 32768 bytes) in C:\xampp\htdocs\Digitalhome\wp-content\plugins\woocommerce\includes\emails\class-wc-email-customer-invoice.php on line 1
+
